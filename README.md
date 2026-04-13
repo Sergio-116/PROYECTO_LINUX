@@ -51,6 +51,11 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 </p>
 
 
+<p align="center">
+	<img src ="IMAGENES/01\_History.png" width="700">
+
+</p>
+
 ---
 
 
@@ -65,7 +70,7 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 
 <p align="center">
 
-&#x20; <img src="https://github.com/Sergio-116/PROYECTO\_LINUX/blob/297374f303343c087ed172bec9b592491486020a/IMAGENES/01\_History.png" >
+&#x20; <img src="https://github.com/Sergio-116/PROYECTO\_LINUX/blob/297374f303343c087ed172bec9b592491486020a/IMAGENES/01\_History.png" width="700">
 
 </p>
 
