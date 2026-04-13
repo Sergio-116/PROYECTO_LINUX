@@ -2,7 +2,7 @@
 
 
 
-\# 🚀 PROYECTO LINUX - COMANDOS BÁSICOS
+## 🚀 PROYECTO LINUX - COMANDOS BÁSICOS
 
 
 
@@ -22,24 +22,26 @@
 
 
 
-\## 📌 Descripción
+### 📌 Descripción
 
 
 
-Proyecto práctico enfocado en el uso de comandos Linux para la gestión de archivos, procesos y automatización desde terminal.
+Proyecto práctico enfocado en el uso de comandos Linux para la gestión de archivos, procesos y automatización desde terminal con los comando más usados.
 
 
 
 \---
 
 
+🧭 Navegación e historial
+---
 
-\## 🧭 Navegación e historial
 
 
+###### 📌 Paso 1 - History
 
-\### 📌 Paso 1 - History
 
+Este comando se ejecuta para evidenciar los pasos que se han realizado en la terminal de Linux como lo muestra en la siguiente imagen.
 
 
 <p align="center">
@@ -48,17 +50,15 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 </p>
 
-
-
 \---
 
 
 
-\## 📂 Gestión de archivos
+##### 📂 Gestión de archivos
 
 
 
-\### 📌 Paso 2 - Archivo Logs
+###### 📌 Paso 2 - Archivo Logs
 
 
 
@@ -70,7 +70,7 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\### 📌 Paso 3 - Uso de Nano
+###### 📌 Paso 3 - Uso de Nano
 
 
 
@@ -82,7 +82,7 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\### 📌 Paso 4 - Backup
+###### 📌 Paso 4 - Backup
 
 
 
@@ -94,7 +94,7 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\### 📌 Paso 5 - Cambiar Nombre
+###### 📌 Paso 5 - Cambiar Nombre
 
 
 
@@ -110,11 +110,11 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\## 🔐 Permisos
+##### 🔐 Permisos
 
 
 
-\### 📌 Paso 6 - Configuración de Permisos
+###### 📌 Paso 6 - Configuración de Permisos
 
 
 
@@ -130,11 +130,11 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\## ⚙️ Procesos
+##### ⚙️ Procesos
 
 
 
-\### 📌 Paso 7 - Ver Procesos
+###### 📌 Paso 7 - Ver Procesos
 
 
 
@@ -146,7 +146,7 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\### 📌 Paso 8 - Matar Procesos
+###### 📌 Paso 8 - Matar Procesos
 
 
 
@@ -158,7 +158,7 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\### 📌 Paso 9 - Uso de TOP
+###### 📌 Paso 9 - Uso de TOP
 
 
 
@@ -174,11 +174,11 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\## 🧪 Script Final
+##### 🧪 Script Final
 
 
 
-\### 📌 Paso 10 - Archivo Mis Comandos
+###### 📌 Paso 10 - Archivo Mis Comandos
 
 
 
@@ -190,7 +190,7 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\### 📌 Paso 11 - Evidencia Script
+###### 📌 Paso 11 - Evidencia Script
 
 
 
@@ -206,7 +206,7 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 
 
-\## 💡 Tecnologías
+##### 💡 Tecnologías
 
 
 
