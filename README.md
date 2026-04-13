@@ -50,7 +50,8 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 
 </p>
 
-\---
+
+---
 
 
 
@@ -64,7 +65,7 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 
 <p align="center">
 
-&#x20; <img src="IMAGENES/02\_ArchivoLogs.png" width="700">
+&#x20; <img src="IMAGENES/01\_/History.png" >
 
 </p>
 
