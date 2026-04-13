@@ -55,7 +55,6 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 	<img src ="IMAGENES/01\_History.png" alt="" width="330" height="238" />
 
 </p>
-
 ---
 
 
