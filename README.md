@@ -51,6 +51,8 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 </p>
 
 
+!\[image alt](IMAGENES/01\_History.png)
+
 <p align="center">
 	<img src ="IMAGENES/01\_History.png" alt="" width="330" height="238" />
 
