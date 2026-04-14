@@ -51,8 +51,8 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 </p>
 
 
-!\[image alt](IMAGENES/01\_History.png)
-!\[image alt](https://github.com/Sergio-116/PROYECTO\_LINUX/blob/2a790714553ffdc6ce886d29e6c985c2dbef8fc7/IMAGENES/01\_History.png)
+!\[Paso 1](https://raw.githubusercontent.com/Sergio-116/PROYECTO\_LINUX/main/IMAGENES/01\_History.png)
+!\[Paso 1](IMAGENES/01\_History.png)
 
 <p align="center">
 	<img src ="IMAGENES/01\_History.png" alt="" width="330" height="238" />
