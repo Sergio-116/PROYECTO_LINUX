@@ -40,24 +40,11 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 ###### 📌 Paso 1 - History
 
-###### 📌 Paso 1 - History
 
 Este comando se ejecuta para evidenciar los pasos que se han realizado en la terminal de Linux.
 
 ![Paso 1](https://raw.githubusercontent.com/Sergio-116/PROYECTO_LINUX/main/IMAGENES/01_History.png)
 
-Este comando se ejecuta para evidenciar los pasos que se han realizado en la terminal de Linux como lo muestra en la siguiente imagen.
-
-
-<img src ="IMAGENES/01\_History.png" alt="" width="330" height="238" >
-
-
-<img src =  "https://github.com/Sergio-116/PROYECTO\_LINUX/blob/ee8c5f06fdb4697b520ee26fa8b1c3cfa2c8dd02/IMAGENES/01\_History.png" alt="" width="330" height="238" >
-
-
-!\[Paso 1](https://raw.githubusercontent.com/Sergio-116/PROYECTO\_LINUX/main/IMAGENES/01\_History.png)
-
-!\[test](https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png)
 
 ---
 
@@ -65,112 +52,49 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 
 ##### 📂 Gestión de archivos
 
+En la gestión de archivos se puede relacionar todo los comando de reconocer donde está, listar los archivos creados, visualizar el contenido, buscar archivos, dar gestión de los mismo elaborando backups, editar, eliminar, entre otras funciones que se va a están nombrando en el transcurso del tema.
+
+Inicialmente se realiza le creación de las carpetas utilizando el comando **mkdir nombre_de_la_carpeta** que en este caso se asigno el nombre como Practica_Linux, en seguida se utiliza el comando **cd Practica_Linux** para poder acceder a la carpeta, en cualquier caso de haber escogido otro nombre, debe ser mencionado en después de **cd**. 
+
+Es importante reconocer hay dentro de cada carpeta, que archivos o elementos hay, en el lugar que este ubicado, para ello, se utiliza el comando **ls -l**, como se evidencia en la siguiente imagen.
+
+![Paso 2](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/02_ArchivoLogs.png)
+
+En la gestión de archivos también se puede necesitar encontrar un archivo dentro de una carpeta, tenga en cuenta que solo buscara en dicha carpeta donde este ubicado, sea el caso de tener una carpeta dentro en la que usted se encuentra, no va a buscar, el comando para realizar esta búsqueda es **find _El nombre del archivo junto con la extención_**. 
+
+Es menester hablar de como retroceder a la carpeta anterior, crear nuevo archivo vacio, es decir sin nada de contenido, en los comando utilizados son **cd ..* y **touch nombre del archivo*
+
+![Paso 3](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/03_UsoNano.png)
+
+Guardar un respaldo es tan importante como desarrollar en cualquier ámbito, por tal razón, **cp combre del archivo ../Carpeta a donde quiere hacer backup/**, en este caso se realizo una carpeta adentro de la carpeta Practica_Linux en la misma gerarquia de la carpeta Documentos, de este modo se realizo el Backup. 
+
+![Paso 4](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/04_RealizacionBackup.png)
 
 
-###### 📌 Paso 2 - Archivo Logs
+En su momento todo debemos realizar un cambio de nombre a algún archivo, el comando utilizado en Linux **mv nombre_inicial nombre_final** se evidencia en la siguiente imagen
+
+![Paso 5](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/05_Cambiar_nombre.png)
+
+Para eliminar un documento o carpeta hay dos maneras de llevar a cabo **rmdir nombre** y **rm -r nombre ** de la segunda manera se elimina aquello que se halla seleccionado
+
+![Paso 6](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/06_ConfiguacionPermisos.png)
 
 
+La edición de un archivo es de mucho cuidado por tal razón es necesario brindar los permisos requeridos de acuerdo a lo que se requiera, de tal modo el comando usado es **chmod 600 nombre del archivo** para diferenciar analizar la siguiente imagen 
 
-
-
-###### 📌 Paso 3 - Uso de Nano
-
-
-
-<p align="center">
-
-&#x20; <img src="IMAGENES/03\_UsoNano.png" width="700">
-
-</p>
-
-
-
-###### 📌 Paso 4 - Backup
-
-
-
-<p align="center">
-
-&#x20; <img src="IMAGENES/04\_RealizacionBackup.png" width="700">
-
-</p>
-
-
-
-###### 📌 Paso 5 - Cambiar Nombre
-
-
-
-<p align="center">
-
-&#x20; <img src="IMAGENES/05\_Cambiar\_nombre.png" width="700">
-
-</p>
-
-
-
-\---
-
-
-
-##### 🔐 Permisos
-
-
-
-###### 📌 Paso 6 - Configuración de Permisos
-
-
-
-<p align="center">
-
-&#x20; <img src="IMAGENES/06\_ConfiguracionPermisos.png" width="700">
-
-</p>
-
-
-
-\---
-
-
+![Paso 7](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/07_VerProcesos.png)
+ 
 
 ##### ⚙️ Procesos
 
+El comando **TOP** se utiliza para visualizar los proceso internos de la maquina en ejemplo se muestra en la siguiente imagen
 
+![Paso 8](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/09_UsoTOP.png)
+ 
 
-###### 📌 Paso 7 - Ver Procesos
+Para matar el proceso se utiliza el comando **kill PID del proceso que quiere finalizar** es decir KILL 564, para poder salir de este proceso se debe oprimir la letra **q**
 
-
-
-<p align="center">
-
-&#x20; <img src="IMAGENES/07\_VerProcesos.png" width="700">
-
-</p>
-
-
-
-###### 📌 Paso 8 - Matar Procesos
-
-
-
-<p align="center">
-
-&#x20; <img src="IMAGENES/08\_MatarProcesos.png" width="700">
-
-</p>
-
-
-
-###### 📌 Paso 9 - Uso de TOP
-
-
-
-<p align="center">
-
-&#x20; <img src="IMAGENES/09\_UsoTOP.png" width="700">
-
-</p>
-
+![Paso 9](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/08_MatarProcesos.png)
 
 
 \---
@@ -184,24 +108,17 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 ###### 📌 Paso 10 - Archivo Mis Comandos
 
 
+![Paso 10](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/10_ArchivoMisComandos.png)
 
-<p align="center">
-
-&#x20; <img src="IMAGENES/10\_ArchivoMisComandos.png" width="700">
-
-</p>
 
 
 
 ###### 📌 Paso 11 - Evidencia Script
 
 
+![Paso 11](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/11_EvidenciaScrip.png
+)
 
-<p align="center">
-
-&#x20; <img src="IMAGENES/11\_EvidenciaScrip.png" width="700">
-
-</p>
 
 
 
