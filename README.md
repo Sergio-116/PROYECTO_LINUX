@@ -45,7 +45,7 @@ Este comando se ejecuta para evidenciar los pasos que se han realizado en la ter
 
 
 
-!\[alt] (https://github.com/Sergio-116/PROYECTO\_LINUX/blob/b81ab3dadb2cc1872093072af85e418b517cd949/IMAGENES/01\_History.png)
+!\[alt] (IMAGENES/01\_History.png)
 
 <p align="center">
 	<img src ="IMAGENES/01\_History.png" alt="" width="330" height="238" />
