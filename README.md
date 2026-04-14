@@ -44,15 +44,8 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 Este comando se ejecuta para evidenciar los pasos que se han realizado en la terminal de Linux como lo muestra en la siguiente imagen.
 
 
-<p align="center">
 
-&#x20; <img src="IMAGENES/01\_History.png" width="700">
-
-</p>
-
-
-!\[Paso 1](https://raw.githubusercontent.com/Sergio-116/PROYECTO\_LINUX/main/IMAGENES/01\_History.png)
-!\[Paso 1](IMAGENES/01\_History.png)
+!\[alt] (https://github.com/Sergio-116/PROYECTO\_LINUX/blob/b81ab3dadb2cc1872093072af85e418b517cd949/IMAGENES/01\_History.png)
 
 <p align="center">
 	<img src ="IMAGENES/01\_History.png" alt="" width="330" height="238" />
