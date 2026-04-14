@@ -58,31 +58,31 @@ Inicialmente se realiza le creación de las carpetas utilizando el comando **mkd
 
 Es importante reconocer hay dentro de cada carpeta, que archivos o elementos hay, en el lugar que este ubicado, para ello, se utiliza el comando **ls -l**, como se evidencia en la siguiente imagen.
 
-![Paso 2](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/02_ArchivoLogs.png)
+![Paso 2](https://github.com/Sergio-116/PROYECTO_LINUX/blob/f34cd6e64894879cd176013e319eaaf4a492f979/IMAGENES/02_ArchivoLogs.png)
 
 En la gestión de archivos también se puede necesitar encontrar un archivo dentro de una carpeta, tenga en cuenta que solo buscara en dicha carpeta donde este ubicado, sea el caso de tener una carpeta dentro en la que usted se encuentra, no va a buscar, el comando para realizar esta búsqueda es **find _El nombre del archivo junto con la extención_**. 
 
 Es menester hablar de como retroceder a la carpeta anterior, crear nuevo archivo vacio, es decir sin nada de contenido, en los comando utilizados son **cd ..* y **touch nombre del archivo*
 
-![Paso 3](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/03_UsoNano.png)
+![Paso 3](https://github.com/Sergio-116/PROYECTO_LINUX/blob/f34cd6e64894879cd176013e319eaaf4a492f979/IMAGENES/03_UsoNano.png)
 
 Guardar un respaldo es tan importante como desarrollar en cualquier ámbito, por tal razón, **cp combre del archivo ../Carpeta a donde quiere hacer backup/**, en este caso se realizo una carpeta adentro de la carpeta Practica_Linux en la misma gerarquia de la carpeta Documentos, de este modo se realizo el Backup. 
 
-![Paso 4](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/04_RealizacionBackup.png)
+![Paso 4](https://github.com/Sergio-116/PROYECTO_LINUX/blob/f34cd6e64894879cd176013e319eaaf4a492f979/IMAGENES/04_RealizacionBackup.png)
 
 
 En su momento todo debemos realizar un cambio de nombre a algún archivo, el comando utilizado en Linux **mv nombre_inicial nombre_final** se evidencia en la siguiente imagen
 
-![Paso 5](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/05_Cambiar_nombre.png)
+![Paso 5](https://github.com/Sergio-116/PROYECTO_LINUX/blob/f34cd6e64894879cd176013e319eaaf4a492f979/IMAGENES/05_Cambiar_nombre.png)
 
 Para eliminar un documento o carpeta hay dos maneras de llevar a cabo **rmdir nombre** y **rm -r nombre ** de la segunda manera se elimina aquello que se halla seleccionado
 
-![Paso 6](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/06_ConfiguacionPermisos.png)
+![Paso 6](https://github.com/Sergio-116/PROYECTO_LINUX/blob/f34cd6e64894879cd176013e319eaaf4a492f979/IMAGENES/06_ConfiguacionPermisos.png)
 
 
 La edición de un archivo es de mucho cuidado por tal razón es necesario brindar los permisos requeridos de acuerdo a lo que se requiera, de tal modo el comando usado es **chmod 600 nombre del archivo** para diferenciar analizar la siguiente imagen 
 
-![Paso 7](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/07_VerProcesos.png)
+![Paso 7](https://github.com/Sergio-116/PROYECTO_LINUX/blob/f34cd6e64894879cd176013e319eaaf4a492f979/IMAGENES/07_VerProcesos.png)
  
 
 ##### ⚙️ Procesos
@@ -94,7 +94,7 @@ El comando **TOP** se utiliza para visualizar los proceso internos de la maquina
 
 Para matar el proceso se utiliza el comando **kill PID del proceso que quiere finalizar** es decir KILL 564, para poder salir de este proceso se debe oprimir la letra **q**
 
-![Paso 9](https://github.com/Sergio-116/PROYECTO_LINUX/blob/cf7960889f7e67b5ca97f4d57c59e03da2db9821/IMAGENES/08_MatarProcesos.png)
+![Paso 9](https://github.com/Sergio-116/PROYECTO_LINUX/blob/f34cd6e64894879cd176013e319eaaf4a492f979/IMAGENES/08_MatarProcesos.png)
 
 
 \---
