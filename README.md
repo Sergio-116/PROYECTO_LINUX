@@ -40,6 +40,11 @@ Proyecto práctico enfocado en el uso de comandos Linux para la gestión de arch
 
 ###### 📌 Paso 1 - History
 
+###### 📌 Paso 1 - History
+
+Este comando se ejecuta para evidenciar los pasos que se han realizado en la terminal de Linux.
+
+![Paso 1](https://raw.githubusercontent.com/Sergio-116/PROYECTO_LINUX/main/IMAGENES/01_History.png)
 
 Este comando se ejecuta para evidenciar los pasos que se han realizado en la terminal de Linux como lo muestra en la siguiente imagen.
 
